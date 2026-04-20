@@ -28,3 +28,4 @@ Piccola applicazione web che simula una sfida tra il giocatore e il computer, in
 Il progetto usa JavaScript per generare in modo casuale due numeri da 1 a 10, assegnarli al giocatore e al computer e mostrare nella pagina il risultato finale della partita.
 
 ## Demo
+![Screenshot della Dice Roller](demo/screenshot.png)
